@@ -1,10 +1,17 @@
+import Form from './components/Form'
+import Logo from './components/Logo'
+import PackingList from './components/PackingList'
+import Stats from './components/Stats'
 
 import './App.css'
 
 function App() {
   return (
     <>
-   <h1>Travel List</h1>
+   <Logo />
+   <Form />
+   <PackingList />
+   <Stats />
     </>
   )
 }
