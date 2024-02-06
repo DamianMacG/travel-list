@@ -1,7 +1,7 @@
 function PackingList() {
     return (
-        <div>
-            
+        <div className="list">
+            LIST:
         </div>
     )
 }

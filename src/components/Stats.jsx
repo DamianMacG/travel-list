@@ -1,8 +1,8 @@
 function Stats() {
     return (
-        <div>
-            
-        </div>
+        <footer>
+           <em>You have X items on your list, and you already packed Y (X%)</em>
+        </footer>
     )
 }
 
