@@ -1,4 +1,4 @@
-function logo() {
+function Logo() {
     return (
         <div>
             
@@ -6,4 +6,4 @@ function logo() {
     )
 }
 
-export default logo
+export default Logo;

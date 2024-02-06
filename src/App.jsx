@@ -1,5 +1,5 @@
 import Form from './components/Form'
-import Logo from './components/Logo'
+import Logo from './components/logo'
 import PackingList from './components/PackingList'
 import Stats from './components/Stats'
 
